@@ -6,7 +6,7 @@
 #### Product Browsing
 * Users can explore different mukhwas products, combos, and gift hampers available on the website.
 #### Add to Cart System
-  *Users can add products to the shopping cart and view the total items and price
+  * Users can add products to the shopping cart and view the total items and price
 #### Cart Management
   * View cart items
   * Remove items from cart
@@ -24,6 +24,6 @@
    * Deal Corner
 #### Contact & Social Integration
 ##### Users can contact the brand and connect through:
-    * Instagram
-    * YouTube
-    * WhatsApp chat button
+  * Instagram
+  * YouTube
+  * WhatsApp chat button
