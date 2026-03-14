@@ -23,7 +23,7 @@
    * Gift Hampers
    * Deal Corner
 #### Contact & Social Integration
-  ##### Users can contact the brand and connect through:
+##### Users can contact the brand and connect through:
     * Instagram
     * YouTube
     * WhatsApp chat button
