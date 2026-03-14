@@ -4,7 +4,7 @@
 
 ### 🚀 Features
 #### Product Browsing
-  * Users can explore different mukhwas products, combos, and gift hampers available on the website.
+* Users can explore different mukhwas products, combos, and gift hampers available on the website.
 #### Add to Cart System
   *Users can add products to the shopping cart and view the total items and price
 #### Cart Management
